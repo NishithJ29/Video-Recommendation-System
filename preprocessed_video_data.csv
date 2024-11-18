@@ -1,0 +1,6 @@
+id,title,category,upvote_count,view_count,username,engagement_score
+1,Python Basics,education,200,3000,user1,3200
+2,Advanced AI,education,450,10000,user2,10450
+3,Football Highlights,sports,300,5000,user3,5300
+4,Machine Learning 101,education,500,7000,user4,7500
+5,Fitness Tips,fitness,150,2000,user5,2150
