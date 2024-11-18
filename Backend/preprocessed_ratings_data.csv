@@ -1,0 +1,12 @@
+username,post_id,average_rating,normalized_rating,category,view_count
+kinha,1,4,0.6666666666666666,General,100
+kinha,2,5,0.9999999999999999,General,100
+kinha,3,3,0.33333333333333337,General,100
+kinha,4,2,0.0,General,100
+other_user,1,2,0.0,General,100
+other_user,2,4,0.6666666666666666,General,100
+other_user,3,4,0.6666666666666666,General,100
+other_user,4,5,0.9999999999999999,General,100
+another_user,2,4,0.6666666666666666,General,100
+another_user,3,3,0.33333333333333337,General,100
+another_user,5,5,0.9999999999999999,General,100
